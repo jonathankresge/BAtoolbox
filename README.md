@@ -2,7 +2,10 @@
 
 This is for the evolving BA toolbox we are goign to be using for helping the teams remove roadblocks and get unstuck from their projects.
 
-Layout will change as file count gets larger.  For right now, it will all be in the same directory.  I will update here as changes need to be made.
+For now, the layout is going to be as follows:
+*html, css, and image files should go in their own directory
+*images should be named filename_section(#).*  If there are multiple images in the same section, the # indicates which one it is
+*assets are everything else (pdf files, etc) that don't belong in one of the other directories.
 
 If you create or add anything to a file, please make sure that any and all references you use be documented at the bottom of each page in the following format:
 
