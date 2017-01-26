@@ -14,3 +14,5 @@ If you create or add anything to a file, please make sure that any and all refer
 <a>Main Website Title - Page title</a>
 
 I would prefer to site the author/editor of the page first.  If that information is not availble, siting the website is ok.  And please alphabetize by last name, I know it may feel anal but it helps me find references faster.
+
+I will also be including requirements elicitation and modeling techniques as a part of this, as well.  This will be a secondary feature that will not be immediately shared on the intranet.  
